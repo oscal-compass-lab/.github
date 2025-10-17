@@ -1,6 +1,6 @@
-# <img alt="OSCAL Compass Logo" width="100px" src="https://raw.githubusercontent.com/oscal-compass/community/main/assets/oscal-compass-color.png" style="vertical-align: middle;" /> <img alt="Microscope Image" width="75px" src="../images/microscope-3101403_1280.png" style="vertical-align: middle;" />   Welcome to the OSCAL Compass Labs organization.
+# <img alt="OSCAL Compass Logo" width="100px" src="https://raw.githubusercontent.com/oscal-compass/community/main/assets/oscal-compass-color.png" style="vertical-align: middle;" /> <img alt="Microscope Image" width="75px" src="../images/microscope-3101403_1280.png" style="vertical-align: middle;" />   Welcome to the OSCAL Compass Lab.
 
-The OSCAL Compass Labs organization comprises projects aligned with the OSCAL Compass [project](https://github.com/oscal-compass).
+The OSCAL Compass Lab organization comprises projects aligned with the OSCAL Compass [project](https://github.com/oscal-compass).
 
 ## What's here?
 
@@ -12,7 +12,7 @@ This is the place for research and development comprising new projects that alig
 
 ##### Existing projects moved into the OSCAL Compass sphere
 
-A compliance standardization/automation existing project may very well start its life outside the bounds OSCAL Compass. At some point it may make sense to join with OSCAL Compass. The first step is to become a project under the OSCAL Compass Labs organization, garnering all the benefits of being so associated. Later, if warranted, the project may graduate to OSCAL Compass proper.
+A compliance standardization/automation existing project may very well start its life outside the bounds OSCAL Compass. At some point it may make sense to join with OSCAL Compass. The first step is to become a project under the OSCAL Compass Lab organization, garnering all the benefits of being so associated. Later, if warranted, the project may graduate to OSCAL Compass proper.
 
 ## Getting Started
 
